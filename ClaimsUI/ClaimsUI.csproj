@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="ClaimUI.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="PromptUser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

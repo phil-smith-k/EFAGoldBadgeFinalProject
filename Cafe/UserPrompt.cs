@@ -47,6 +47,7 @@ namespace Cafe
             while (didUserEnterPrice)
             {
                 Console.WriteLine("Enter a price: ");
+                Console.WriteLine("Example: $3.25");
                 NumberStyles style = NumberStyles.Number | NumberStyles.AllowCurrencySymbol | NumberStyles.AllowDecimalPoint;
                 CultureInfo culture = CultureInfo.CreateSpecificCulture("en-US");
 

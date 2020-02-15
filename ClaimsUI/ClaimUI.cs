@@ -10,6 +10,7 @@ namespace ClaimsUI
     public class ClaimUI
     {
         ClaimRepository _claims = new ClaimRepository();
+        PromptUser _prompt = new PromptUser();
         public void Run()
         {
             SeedClaims();
@@ -29,6 +30,7 @@ namespace ClaimsUI
             bool isUserUsingApp = true;
             while (isUserUsingApp)
             {
+                Console.Clear();
                 Console.WriteLine("*****************************");
                 Console.WriteLine("          Main Menu          ");
                 Console.WriteLine("*****************************\n");
@@ -49,16 +51,16 @@ namespace ClaimsUI
                         DisplayAllClaims();
                         break;
                     case ConsoleKey.D2:
-
+                        ViewNextClaim();
                         break;
                     case ConsoleKey.NumPad2:
-
+                        ViewNextClaim();
                         break;
                     case ConsoleKey.D3:
-
+                        AddAClaim();
                         break;
                     case ConsoleKey.NumPad3:
-
+                        AddAClaim();
                         break;
                     case ConsoleKey.D4:
                         Console.Clear();
@@ -75,15 +77,49 @@ namespace ClaimsUI
         }
         private void DisplayAllClaims()
         {
-            Console.Clear();
-            List<Claim> claims = new List<Claim>();
-            claims = _claims.GetAllClaims();
-
-            foreach(Claim claim in claims)
+            if (_claims.IsQueueEmpty)
             {
-                Console.WriteLine($"{claim.ID} {claim.TypeOfClaim} {claim.Description} {claim.Amount} {claim.DateOfIncident.ToString("dd/MM/yyyy")} {claim.DateOfClaim.ToString("dd/MM/yyyy")} {claim.IsValid}\n");
+                Console.Clear();
+                Console.WriteLine("There are no claims to view at this time...\n" +
+                    "Press enter to return to the main menu...");
+                Console.ReadLine();
             }
-            Console.ReadLine();
+            else
+            {
+
+                Console.Clear();
+                List<Claim> claims = new List<Claim>();
+                claims = _claims.GetAllClaims();
+
+                foreach(Claim claim in claims)
+                {
+                    Console.WriteLine($"{claim.ID} {claim.TypeOfClaim} {claim.Description} {claim.Amount} {claim.DateOfIncident.ToString("dd/MM/yyyy")} {claim.DateOfClaim.ToString("dd/MM/yyyy")} {claim.IsValid}\n");
+                }
+                Console.ReadLine();
+            }
+        }
+        private void AddAClaim()
+        {
+            Claim claim = new Claim();
+
+            claim.TypeOfClaim = _prompt.PromptUserForTypeOfClaim();
+            claim.Description = _prompt.PromptUserForDescription();
+            claim.Amount = _prompt.PromptUserForAmount();
+            claim.DateOfIncident = _prompt.PromptUserForDateOfIncident();
+            claim.DateOfClaim = _prompt.PromptUserForDateOfClaim();
+            if (claim.IsValid)
+            {
+                Console.WriteLine("The claim is valid. Adding to cue...\n" +
+                    "Press enter to return to menu.");
+                Console.ReadLine();
+            }
+            else
+            {
+                Console.WriteLine("The claim is not valid.\n" +
+                    "Press Enter to Continue.");
+            }
+
+            _claims.AddClaimToQueue(claim);
         }
         private void SeedClaims()
         {
@@ -98,6 +134,48 @@ namespace ClaimsUI
 
             Claim claim4 = new Claim("123459", ClaimType.Car, "Bad wreck", 6000m, new DateTime(2020, 1, 1), new DateTime(2020, 1, 2));
             _claims.AddClaimToQueue(claim4);
+        }
+        private void ViewNextClaim()
+        {
+            Claim nextClaim = _claims.GetNextClaim();
+            Console.Clear();
+
+            if (_claims.IsQueueEmpty)
+            {
+                Console.WriteLine("There are no claims to view at this time...\n" +
+                    "Press enter to return to the main menu...");
+                Console.ReadLine();
+            }
+            else
+            {
+
+                Console.WriteLine("Here are the details for the next claim to be handled:");
+                Console.WriteLine($"Claim ID: {nextClaim.ID}\n" +
+                    $"Claim Type: {nextClaim.TypeOfClaim}\n" +
+                    $"Claim Description: {nextClaim.Description}\n" +
+                    $"Claim Amount: {nextClaim.Amount:C}\n" +
+                    $"Date of Incident: {nextClaim.DateOfIncident.ToString("MM/dd/yyyy")}\n" +
+                    $"Date of Claim: {nextClaim.DateOfClaim.ToString("MM/dd/yyyy")}\n" +
+                    $"Is Valid: {nextClaim.IsValid}\n");
+
+                Console.WriteLine("Would you like to deal with this claim now? (Y/N)");
+                ConsoleKeyInfo userInput = Console.ReadKey();
+
+                switch (userInput.Key)
+                {
+                    case ConsoleKey.Y:
+                        Console.Clear();
+                        _claims.RemoveNextClaim();
+                        Console.WriteLine("The claim has been removed from the queue.\n" +
+                            "Press enter to return to main menu...");
+                        Console.ReadLine();
+                        break;
+                    case ConsoleKey.N:
+                        break;
+                    default:
+                        break;
+                }
+            }
         }
     }
 }

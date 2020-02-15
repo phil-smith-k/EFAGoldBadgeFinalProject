@@ -9,6 +9,20 @@ namespace ClaimsClasses
     public class ClaimRepository
     {
         Queue<Claim> _claims = new Queue<Claim>();
+        public bool IsQueueEmpty
+        {
+            get
+            {
+                if(_claims.Count == 0)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+        }
         public bool AddClaimToQueue(Claim claim)
         {
             int initialCount = _claims.Count;
