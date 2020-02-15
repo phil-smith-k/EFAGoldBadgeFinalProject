@@ -1,0 +1,9 @@
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\ClaimsUI\bin\Debug\ClaimsUI.exe.config
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\ClaimsUI\bin\Debug\ClaimsUI.exe
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\ClaimsUI\bin\Debug\ClaimsUI.pdb
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\ClaimsUI\obj\Debug\ClaimsUI.csprojAssemblyReference.cache
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\ClaimsUI\obj\Debug\ClaimsUI.exe
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\ClaimsUI\obj\Debug\ClaimsUI.pdb
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\ClaimsUI\bin\Debug\ClaimsClasses.dll
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\ClaimsUI\bin\Debug\ClaimsClasses.pdb
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\ClaimsUI\obj\Debug\ClaimsUI.csproj.CopyComplete

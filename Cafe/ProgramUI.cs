@@ -66,7 +66,7 @@ namespace Cafe
                         isUserUsingApp = false;
                         break;
                     default:
-                        break;
+                        continue;
                 } 
             }
         }
