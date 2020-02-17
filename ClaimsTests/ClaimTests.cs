@@ -1,5 +1,5 @@
 ﻿using System;
-using ClaimsClasses;
+using ClaimsClassLibrary;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace ClaimsTests

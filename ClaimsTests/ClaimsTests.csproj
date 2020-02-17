@@ -57,9 +57,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClaimsClasses\ClaimsClasses.csproj">
+    <ProjectReference Include="..\ClaimsClasses\ClaimsClassLibrary.csproj">
       <Project>{BE5536F2-38C7-48C0-8D07-24C9674C2C2E}</Project>
-      <Name>ClaimsClasses</Name>
+      <Name>ClaimsClassLibrary</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

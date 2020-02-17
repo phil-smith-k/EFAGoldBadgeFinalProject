@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClaimsClasses
+namespace ClaimsClassLibrary
 {
     public class ClaimRepository
     {

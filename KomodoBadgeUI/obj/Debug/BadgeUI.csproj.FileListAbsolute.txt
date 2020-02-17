@@ -1,0 +1,9 @@
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\KomodoBadgeUI\bin\Debug\KomodoBadgeUI.exe.config
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\KomodoBadgeUI\bin\Debug\KomodoBadgeUI.exe
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\KomodoBadgeUI\bin\Debug\KomodoBadgeUI.pdb
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\KomodoBadgeUI\obj\Debug\BadgeUI.csprojAssemblyReference.cache
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\KomodoBadgeUI\obj\Debug\KomodoBadgeUI.exe
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\KomodoBadgeUI\obj\Debug\KomodoBadgeUI.pdb
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\KomodoBadgeUI\bin\Debug\BadgeClassLibrary.dll
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\KomodoBadgeUI\bin\Debug\BadgeClassLibrary.pdb
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\KomodoBadgeUI\obj\Debug\BadgeUI.csproj.CopyComplete

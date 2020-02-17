@@ -1,0 +1,5 @@
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\BadgeClassLibrary\bin\Debug\BadgeClassLibrary.dll
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\BadgeClassLibrary\bin\Debug\BadgeClassLibrary.pdb
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\BadgeClassLibrary\obj\Debug\BadgeClassLibrary.csprojAssemblyReference.cache
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\BadgeClassLibrary\obj\Debug\BadgeClassLibrary.dll
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\BadgeClassLibrary\obj\Debug\BadgeClassLibrary.pdb

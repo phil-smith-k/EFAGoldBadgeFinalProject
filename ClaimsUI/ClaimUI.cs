@@ -1,4 +1,4 @@
-﻿using ClaimsClasses;
+﻿using ClaimsClassLibrary;
 using System;
 using System.Collections.Generic;
 using System.Linq;
