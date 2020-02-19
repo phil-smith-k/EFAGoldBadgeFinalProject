@@ -8,6 +8,7 @@ namespace KomodoBadgeUI
 {
     class Program
     {
+        //TODO Badge ID - Adding Badge
         static void Main(string[] args)
         {
             ProgramUI ui = new ProgramUI();

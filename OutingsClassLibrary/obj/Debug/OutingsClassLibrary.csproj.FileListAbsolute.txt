@@ -1,0 +1,5 @@
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsClassLibrary\bin\Debug\OutingsClassLibrary.dll
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsClassLibrary\bin\Debug\OutingsClassLibrary.pdb
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsClassLibrary\obj\Debug\OutingsClassLibrary.csprojAssemblyReference.cache
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsClassLibrary\obj\Debug\OutingsClassLibrary.dll
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsClassLibrary\obj\Debug\OutingsClassLibrary.pdb

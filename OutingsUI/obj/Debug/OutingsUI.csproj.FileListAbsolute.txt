@@ -1,0 +1,9 @@
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsUI\bin\Debug\OutingsUI.exe.config
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsUI\bin\Debug\OutingsUI.exe
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsUI\bin\Debug\OutingsUI.pdb
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsUI\obj\Debug\OutingsUI.csprojAssemblyReference.cache
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsUI\obj\Debug\OutingsUI.exe
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsUI\obj\Debug\OutingsUI.pdb
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsUI\bin\Debug\OutingsClassLibrary.dll
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsUI\bin\Debug\OutingsClassLibrary.pdb
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsUI\obj\Debug\OutingsUI.csproj.CopyComplete

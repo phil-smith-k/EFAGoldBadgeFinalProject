@@ -1,0 +1,15 @@
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsTests\bin\Debug\OutingsTests.dll
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsTests\bin\Debug\OutingsTests.pdb
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsTests\bin\Debug\OutingsClassLibrary.dll
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsTests\bin\Debug\OutingsClassLibrary.pdb
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsTests\obj\Debug\OutingsTests.csprojAssemblyReference.cache
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsTests\obj\Debug\OutingsTests.csproj.CopyComplete
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsTests\obj\Debug\OutingsTests.dll
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\OutingsTests\obj\Debug\OutingsTests.pdb
