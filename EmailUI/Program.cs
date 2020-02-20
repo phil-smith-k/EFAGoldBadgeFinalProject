@@ -10,6 +10,8 @@ namespace EmailUI
     {
         static void Main(string[] args)
         {
+            ProgramUI ui = new ProgramUI();
+            ui.Run();
         }
     }
 }

@@ -1,0 +1,5 @@
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\EmailClasses\obj\Debug\EmailClasses.csprojAssemblyReference.cache
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\EmailClasses\bin\Debug\EmailClasses.dll
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\EmailClasses\bin\Debug\EmailClasses.pdb
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\EmailClasses\obj\Debug\EmailClasses.dll
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\EmailClasses\obj\Debug\EmailClasses.pdb

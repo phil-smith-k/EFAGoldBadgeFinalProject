@@ -1,0 +1,9 @@
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\EmailUI\bin\Debug\EmailUI.exe.config
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\EmailUI\bin\Debug\EmailUI.exe
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\EmailUI\bin\Debug\EmailUI.pdb
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\EmailUI\obj\Debug\EmailUI.csprojAssemblyReference.cache
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\EmailUI\obj\Debug\EmailUI.exe
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\EmailUI\obj\Debug\EmailUI.pdb
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\EmailUI\bin\Debug\EmailClasses.dll
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\EmailUI\bin\Debug\EmailClasses.pdb
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\EmailUI\obj\Debug\EmailUI.csproj.CopyComplete

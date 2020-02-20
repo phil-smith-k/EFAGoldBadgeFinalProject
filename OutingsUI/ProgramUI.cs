@@ -46,6 +46,7 @@ namespace OutingsUI
                     case ConsoleKey.NumPad3:
                         SeeTotals();
                         break;
+                    case ConsoleKey.D4:
                     default:
                         continue;
                 }

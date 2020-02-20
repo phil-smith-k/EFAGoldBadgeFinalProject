@@ -24,5 +24,6 @@ namespace EmailClasses
             }
         }
         public abstract string GenerateEmailMessage();
+        public abstract string TypeToString();
     }
 }
