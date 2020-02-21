@@ -4,3 +4,6 @@ C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenge
 C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\GreenCarUI\obj\Debug\GreenCarUI.csprojAssemblyReference.cache
 C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\GreenCarUI\obj\Debug\GreenCarUI.exe
 C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\GreenCarUI\obj\Debug\GreenCarUI.pdb
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\GreenCarUI\bin\Debug\GreenCarClasses.dll
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\GreenCarUI\bin\Debug\GreenCarClasses.pdb
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\GreenCarUI\obj\Debug\GreenCarUI.csproj.CopyComplete

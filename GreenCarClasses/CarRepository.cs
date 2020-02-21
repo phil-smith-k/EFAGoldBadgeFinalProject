@@ -8,12 +8,16 @@ namespace GreenCarClasses
 {
     public class CarRepository
     {
-        List<ICar> _carDirectory = new List<ICar>();
+        private List<ICar> _carDirectory = new List<ICar>();
         public bool AddCar(ICar car)
         {
             int initialCount = _carDirectory.Count;
             _carDirectory.Add(car);
             return initialCount + 1 == _carDirectory.Count;
+        }
+        public List<ICar> GetAllCars()
+        {
+            return _carDirectory;
         }
         public List<ICar> GetAllElectricCars()
         {
