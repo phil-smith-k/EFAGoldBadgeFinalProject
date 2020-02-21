@@ -8,7 +8,7 @@ namespace EmailUI
     {
         CustomerRepository _customerRepo = new CustomerRepository();
         PromptUser _prompt = new PromptUser();
-
+        
         public void Run()
         {
             SeedCustomers();
