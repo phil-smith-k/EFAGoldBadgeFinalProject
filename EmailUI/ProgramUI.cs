@@ -82,7 +82,7 @@ namespace EmailUI
 
             foreach(Customer customer in customers)
             {
-                Console.WriteLine($"{customer.FullName} {customer.TypeToString()} {customer.GenerateEmailMessage()}\n");
+                Console.WriteLine($"{customer.FullName, -20} {customer.TypeToString(), -20} {customer.GenerateEmailMessage(), -20}\n");
             }
         }
         private void DisplayAllCustomersAlphabeticallyByLastName()
@@ -92,7 +92,7 @@ namespace EmailUI
             List<Customer> customers = _customerRepo.GetAllCustomersSortedByLastName();
             foreach (Customer customer in customers)
             {
-                Console.WriteLine($"{customer.LastName} {customer.FirstName} {customer.TypeToString()} {customer.GenerateEmailMessage()}\n");
+                Console.WriteLine($"{customer.LastName, -14} {customer.FirstName, -14} {customer.TypeToString(), -18} {customer.GenerateEmailMessage(), -18}\n");
             }
         }
         private void AddACustomer()

@@ -93,7 +93,7 @@ namespace ClaimsUI
 
                 foreach(Claim claim in claims)
                 {
-                    Console.WriteLine($"{claim.ID} {claim.TypeOfClaim} {claim.Description} {claim.Amount} {claim.DateOfIncident.ToString("dd/MM/yyyy")} {claim.DateOfClaim.ToString("dd/MM/yyyy")} {claim.IsValid}\n");
+                    Console.WriteLine($"{claim.ID} {claim.TypeOfClaim, -19} {claim.Description, -19} {claim.Amount, -19} {claim.DateOfIncident.ToString("dd/MM/yyyy"), -19} {claim.DateOfClaim.ToString("dd/MM/yyyy"), -19} {claim.IsValid, -19}\n");
                 }
                 Console.ReadLine();
             }

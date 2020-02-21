@@ -14,7 +14,7 @@ namespace BadgeClassLibrary
             int initialCount = _badgeDirectory.Count;
             _badgeDirectory.Add(badge.ID, badge.AccessibleDoors);
             return _badgeDirectory.Count == initialCount + 1;
-        }
+        }   
         public List<Door> GetListOfDoorsByID(string id)
         {
             List<Door> doors;

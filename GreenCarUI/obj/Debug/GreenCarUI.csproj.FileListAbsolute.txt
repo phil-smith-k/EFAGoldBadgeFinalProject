@@ -1,0 +1,6 @@
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\GreenCarUI\bin\Debug\GreenCarUI.exe.config
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\GreenCarUI\bin\Debug\GreenCarUI.exe
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\GreenCarUI\bin\Debug\GreenCarUI.pdb
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\GreenCarUI\obj\Debug\GreenCarUI.csprojAssemblyReference.cache
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\GreenCarUI\obj\Debug\GreenCarUI.exe
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleChallenges\GreenCarUI\obj\Debug\GreenCarUI.pdb
